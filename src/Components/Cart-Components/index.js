@@ -86,7 +86,7 @@ export default function CartPage() {
                 </table>
                 <div className='CartTotal'>
                     <div>
-                        <Link to='/' ><button>Back TO Shop</button></Link>
+                        <Link to='/' ><button>Back To Shop</button></Link>
                     </div>
                     <div className="text-right">
                         <button>Check Out</button>
